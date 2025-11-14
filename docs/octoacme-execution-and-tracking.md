@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- UX validation: ensure implemented features match design specifications and usability standards
+- Business Analyst validation: verify features meet documented business requirements
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -36,5 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
+- [ ] Regular demos scheduled (include UX Designer for design reviews)
 - [ ] Risk register updated weekly
+- [ ] Design specifications tracked and validated (UX Designer)
+- [ ] Business requirements validated against deliverables (Business Analyst)

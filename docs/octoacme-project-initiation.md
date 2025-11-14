@@ -18,6 +18,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+  - Consider needs for Business Analyst (requirements clarification)
+  - Consider needs for UX Designer (user experience and design)
+  - Consider needs for Release Manager (if multiple deployments planned)
+  - Consider needs for Customer Success Manager (customer-facing features)
 
 ## Project One-pager Template
 - Project name:
@@ -33,8 +37,12 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
+- [ ] Team composition defined (identify needs for BA, UX, Release Manager, CSM)
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Customer Success Manager engaged if customer-facing changes expected
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for detailed role descriptions.
 
 ## Decision Gate
 Move to planning when:
